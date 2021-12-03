@@ -1,0 +1,48 @@
+{
+    "reindeer": {
+        "id": "reindeer",
+        "groupID": "",
+        "name": "Reindeer - Result Render Tool",
+        "openSource": true,
+        "type": "Tool",
+        "description": "Reindeer is a VBA tool to render SAS results in LISTING, RTF, TAGSETS.RTF and Figures into a Word template file. PDF can be generated as well. This easy to use and very intuitive open source tool is sponsored by ClinStat.",
+        "language": [
+            "Other",
+            "SAS"
+        ],
+        "outstanding": "Sponsorship enabled this tool! We need more of this!",
+        "commercialExtras": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2021-03-05",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/KatjaGlassConsulting/reindeer",
+        "linkDocumentation": "https://github.com/KatjaGlassConsulting/reindeer/blob/master/doc/Reindeer.docm",
+        "linkHomepage": "",
+        "linkCompany": "https://www.glacon.eu",
+        "license": "MIT",
+        "documentation": "The documentation is available in the Word file containing the tool itself.",
+        "authorType": "company",
+        "authors": "Katja Glass",
+        "areaUsers": [
+            "PROG",
+            "ANALYST"
+        ],
+        "areaWorkfield": "Outputs",
+        "size": "medium",
+        "relevance": 5,
+        "image": "reindeer_01.png",
+        "images": [
+            "reindeer_01.png",
+            "reindeer_02.png",
+            "reindeer_03.png"
+        ],
+        "logo": "glacon_logo.png",
+        "linkPresentation": "",
+        "linkPaper": "",
+        "linkVideo": "",
+        "linkLicense": "",
+        "linkPoster": "",
+        "linkDemonstration": "",
+        "linkVignette": ""
+    }
+}
