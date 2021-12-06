@@ -9,9 +9,7 @@ tags: [General]
 
 # Open Source in Clinical Study Evaluations
 
-![Front image](./img/2018-12-14-OSGeneral_01.png)
-
-:movie_camera:
+<img src="./img/2018-12-14-OSGeneral_01.png" maxwidth="100%" alt="Front image">
 
 There are many advantages of having open source solutions available, particularly for
 industries where the main focus is not programming, but science. However, in clinical study
@@ -19,7 +17,7 @@ evaluations there are just a very few open source programs available. Why? Where
 advantages? And what are the risks in our industry? This article will give you a short
 introduction and hopefully make you think about how we can go forward with open source.
 
-Too long to read? [:movie_camera: Here](https://www.youtube.com/watch?v=af321V1XkTI) is a 7 minute video with the content.
+Too long to read? [Here](https://www.youtube.com/watch?v=af321V1XkTI) is a 7 minute video with the content.
 
 ## Pinnacle21 Community as Open Source Example
 
@@ -57,7 +55,7 @@ So, what can our industry learn from this? First of all, open source projects ha
 
 ## Ways to go with Collaborations
 
-<img src="./img/generic_discussion.jpg" width="200">
+<img src="./img/generic_discussion.jpg" width="200"  alt="Group of discussing people">
 
 First of all, the companies have to decide how open they would like to be. There exist many
     open collaborations. Most of them driven by the [PhUSE](https://phuse.global/Working_Groups) which is a community consisting of those
@@ -96,7 +94,7 @@ Why are there no engaged people putting things together for free like what we se
 
 ## Funding to get Open Source
 
-<img src="./img/generic_money.jpg" width="200">
+<img src="./img/generic_money.jpg" width="200"  alt="Person balancing with Money">
 
 A possible solution could be funding projects which are made available as open source. The
     question is whether companies see value in funding such projects and whether there are
