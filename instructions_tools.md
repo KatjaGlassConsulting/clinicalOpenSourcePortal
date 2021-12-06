@@ -2,6 +2,27 @@
 
 To submit a new open source tool to be included into the portal, please provide information and ignore/delete those fields which are not applicable. If you have multiple links, please use an array.
 
+The metadata is using the JSON format. Areas where there could be multiple information, e.g. multiple presentations, can simply be exchanged from one string value to an array of string values.
+
+```json
+    "areaUsers": "ANALYST"
+
+    "areaUsers": [
+        "PROG",
+        "ANALYST",
+        "STAT"
+    ]
+```
+
+For vignettes it makes sense to provide also a label for a specific link. In this case please use the following syntax:
+
+```json
+"linkVignette": [
+    {"Example 1": "https://cran.r-project.org/web/packages/.../xy.html"},
+    {"Example 2": "https://cran.r-project.org/web/packages/.../yz.html"}
+]
+```
+
 The following example shows all currently supported fields and is available under [/tools/reindeer.json](./tools/reindeer.json):
 
 ```json
