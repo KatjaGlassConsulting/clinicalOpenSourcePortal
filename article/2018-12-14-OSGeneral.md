@@ -5,9 +5,10 @@ author: Katja Glaß
 company: Katja Glass Consulting
 companyType: independent
 tags: [General]
+license: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-# Open Source in Clinical Study Evaluations
+# Open Source in Clinical Study Evaluations (2018-12-14)
 
 <img src="./img/2018-12-14-OSGeneral_01.png" maxwidth="100%" alt="Front image">
 
