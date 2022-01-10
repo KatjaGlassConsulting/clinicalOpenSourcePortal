@@ -5,7 +5,7 @@ author: Katja Glaß
 company: Katja Glass Consulting
 companyType: independent
 tags: [General]
-license: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+license: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)
 ---
 
 # Open Source in Clinical Study Evaluations (2018-12-14)
@@ -171,8 +171,4 @@ If you have enough internal resources, join and support working groups. If not, 
 
 ## About the Author
 
-Katja Glaß has more than 13 years experiences in SAS Macro Development and Maintenance in the
-    pharmaceutical industry mainly supporting Analysts, and has a broad knowledge about related
-    tasks and many other technologies. She is heavily involved in the PhUSE community where she
-    led the EU Connect conference in 2018. She recently founded Katja Glass Consulting, a new
-    start-up, hoping to support our industry to face the challenges of the future.
+Katja Glaß has IT background and is for more than 15 years in the pharmaceutical industry. She is now working as part-time consultant focusing on open source for Pharma, hosting a portal about open-source solutions for clinical study evaluations. She has key experiences with SAS, Web Technologies, ADAM, Define.xml and the TLF generation. She is a very active PHUSE member where she led the EU Connect conference in 2018. In 2021 she became board member of COSA to support this initiative as well.
