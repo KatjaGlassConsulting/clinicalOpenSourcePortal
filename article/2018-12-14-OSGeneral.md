@@ -1,11 +1,13 @@
 ---
 title: Open Source in Clinical Study Evaluations
-date: 2018-12-14
+date: "2018-12-14"
 author: Katja Glaß
 company: Katja Glass Consulting
 companyType: independent
 tags: [General]
 license: CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)
+img: 2018-12-14-OSGeneral_01.png
+summary: Various aspects about open source in clinical study evaluations are described.
 ---
 
 # Open Source in Clinical Study Evaluations (2018-12-14)
