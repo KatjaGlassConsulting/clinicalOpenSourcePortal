@@ -1,5 +1,7 @@
 # Instructions to add Open-Source Tool (/tools)
 
+As you do not have write access to this repository, you need to follow the typical pull-request approach. If you are not familar with forks and pull requests, please checkout the [Tips for Fork, Save, Edit and Pull](./tips_fork.md).
+
 To submit a new open source tool to be included into the portal, please provide information and ignore/delete those fields which are not applicable. If you have multiple links, please use an array.
 
 The metadata is using the JSON format. Areas where there could be multiple information, e.g. multiple presentations, can simply be exchanged from one string value to an array of string values.

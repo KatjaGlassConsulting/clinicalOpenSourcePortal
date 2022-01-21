@@ -1,6 +1,8 @@
 # Instructions to add programs (/programs)
 
-## UNDER CONSTRUCTION
+As you do not have write access to this repository, you need to follow the typical pull-request approach. If you are not familar with forks and pull requests, please checkout the [Tips for Fork, Save, Edit and Pull](./tips_fork.md).
+
+## Introduction
 
 For program(s) to be included into the portal, please provide information and ignore/delete those fields which are not applicable (this makes sense for single/few mainly static scripts). 
 
@@ -8,5 +10,6 @@ If your programs are updated regularily, e.g. new macros/scripts are added, then
 
 The following example shows all currently supported fields and is available under [/tools/reindeer.json](./tools/reindeer.json):
 
-```json
-```
+## Details
+
+UNDER CONSTRUCTION
