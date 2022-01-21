@@ -29,8 +29,8 @@ To include content, please follow the instructions for the specific areas and se
 Different types can be contributed to the portal. Please look into the detailed instructions for each:
 
 - [Instructions to add Open-Source Tool (/tools)](instructions_tools.md)
-- under development: [Instructions to add Open-Source Programs (/programs)](instructions_programs.md)
-- under development: [Instructions to add an article (/article)](instructions_article.md)
+- [Instructions to add Open-Source Programs (/programs)](instructions_programs.md)
+- [Instructions to add an article (/article)](instructions_article.md)
 
 ## Re-use
 
